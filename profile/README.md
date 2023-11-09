@@ -11,7 +11,7 @@ Municipalities around the world are responsible for providing services to reside
 Social Torch aims to provide citizens and local governments the data and tools needed to identify and resolve these issues efficiently. Our seamless platform enables municipalities to engage citizens as the eyes and ears of the city through a transparent issue reporting system. Social Torch offers citizens a mobile app to report issues by snapping a picture with their smartphone, which automatically records the location. Cities can access a secure application that aggregates and prioritizes requests, dispatches resources, keeps citizens informed, and collects data to inform future planning. Further, the ultimate customers, the residents, can see and track complaints and apply pressure on city officials to solve the real problems.
 
 <div id="header" align="center">
-  <img src="docs/images/city_mobile.png" alt="App Preview" width="400"/>
+  <img src="./docs/images/city_mobile.png" alt="App Preview" width="400"/>
 </div>
 
 ### Social Torch is Open Source
@@ -19,5 +19,5 @@ Social Torch aims to provide citizens and local governments the data and tools n
 This platform is provide Open Source and you are encouraged to use it to improve your city.
 
 <div id="header" align="center">
-  <img src="docs/images/logo_512x512.png" alt="Social Torch Logo" width="100"/>
+  <img src="./docs/images/logo_512x512.png" alt="Social Torch Logo" width="100"/>
 </div>
